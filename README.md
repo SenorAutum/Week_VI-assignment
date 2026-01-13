@@ -27,3 +27,6 @@ We propose an LSTM-based system using NPK and Soil Moisture sensors. The system 
 
 ### Data Flow
 Sensors -> Edge Gateway -> Cloud (AI Inference) -> User Dashboard -> Actuators (Sprinklers).
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/b7767c6d-e573-45b5-afcb-66942532065e" />
+
